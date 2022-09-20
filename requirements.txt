@@ -1,0 +1,2 @@
+yt-dlp
+discord.py
